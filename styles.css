@@ -38,5 +38,8 @@ height: 200px; width: 300px; background-color: aqua;
     display: none;
 }
 .visible-element{
-    display: visible; background-color: indianred;
+    visibility: visible; background-color: indianred;
+}
+.invisible-element{
+    visibility: hidden;
 }
