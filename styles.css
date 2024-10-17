@@ -21,3 +21,7 @@ height: 200px; width: 300px; background-color: aqua;
 .margin-text{
     margin:30px; background-color: cadetblue;
 } 
+.custom-margin{
+    margin-top: 20px;margin-bottom: 20px;
+    margin-left: 40px;margin-right: 40px; background-color: cornflowerblue;
+}
