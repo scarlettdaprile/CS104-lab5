@@ -14,3 +14,7 @@ height: 200px; width: 300px; background-color: aqua;
 .border-box{
     border: solid, 2px, black
 }
+.rounded-border{
+    border: dotted, 3px, red;
+    border-radius: 15px;
+}
