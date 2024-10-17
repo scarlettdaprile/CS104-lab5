@@ -11,3 +11,6 @@ height: 200px; width: 300px; background-color: aqua;
     padding-top: 10px; padding-bottom: 10px;
     padding-left: 20px; padding-right: 20px;background-color: blueviolet;
 }
+.border-box{
+    border: solid, 2px, black
+}
