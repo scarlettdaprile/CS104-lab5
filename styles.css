@@ -28,3 +28,6 @@ height: 200px; width: 300px; background-color: aqua;
 .inline-element{
     display: inline; background-color: darkgreen;
 }
+.block-element{
+    display: block; background-color: darkcyan;
+}
