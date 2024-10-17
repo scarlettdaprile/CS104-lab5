@@ -2,7 +2,7 @@
 height: 200px; width: 300px; background-color: aqua;
 }
 .responsive-box{
-    width: 50%; height: 50%; background-color: aquamarine;
+    width: 50vw; height: 50vh; background-color: aquamarine;
 }
 .padded-text{
     padding: 20px;background-color: blue;
