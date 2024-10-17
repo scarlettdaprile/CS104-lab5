@@ -31,3 +31,6 @@ height: 200px; width: 300px; background-color: aqua;
 .block-element{
     display: block; background-color: darkcyan;
 }
+.inline-block-element{
+    display: inline-block; background-color: dimgrey;
+}
