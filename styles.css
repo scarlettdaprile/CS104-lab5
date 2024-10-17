@@ -34,3 +34,6 @@ height: 200px; width: 300px; background-color: aqua;
 .inline-block-element{
     display: inline-block; background-color: dimgrey;
 }
+.hidden-element{
+    display: none;
+}
